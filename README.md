@@ -1,0 +1,2 @@
+# istudiocr
+Stock
